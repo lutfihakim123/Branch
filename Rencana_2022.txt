@@ -1,0 +1,5 @@
+RENCANA 2022 
+- Juara Intern Championship
+- Belajar GIT dan GITHUB
+- Belajar Node JS
+- Belajar React
