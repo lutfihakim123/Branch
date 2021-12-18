@@ -3,3 +3,5 @@ RENCANA 2022
 - Belajar GIT dan GITHUB
 - Belajar Node JS
 - Belajar React
+- Belajar English Intermidiate
+- Looking For New Experience
