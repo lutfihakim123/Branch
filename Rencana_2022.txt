@@ -1,8 +1,9 @@
 RENCANA 2022 
-- Juara Intern Championship
-- Belajar GIT dan GITHUB
+- Juara Intern Championship ( You Did good job )
+- Belajar GIT dan GITHUB 
+- Belajar Basic API
+- Belajar React 
 - Belajar Node JS
-- Belajar React
 - Belajar English Intermidiate
 - Looking For New Experience
 
